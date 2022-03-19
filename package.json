@@ -1,6 +1,7 @@
 {
 	"name": "request_header",
 	"version": "0.0.1",
+	"author": "Nandan Holla",
 	"description": "API project for freeCodeCamp",
 	"main": "server.js",
 	"scripts": {
